@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D5t+B4bbAxGrRaeQY6VwPD+b59eoX90pO0gBv41KF88=",
+  "Hash": "/7J2Yn293BvWo6McG1lESGR99sfn70yn+oiWF6hCnEo=",
   "Source": "WebApplicationRentCar",
   "BasePath": "_content/WebApplicationRentCar",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplicationRentCar.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\wwwroot\\css\\LogoCarRental.png",
+      "SourceId": "WebApplicationRentCar",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\wwwroot\\",
+      "BasePath": "_content/WebApplicationRentCar",
+      "RelativePath": "css/LogoCarRental.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\LogoCarRental.png"
     },
     {
       "Identity": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\wwwroot\\css\\site.css",

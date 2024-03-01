@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApplicationRentCar.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\wwwroot\\css\\LogoCarRental.png",
+      "PackagePath": "staticwebassets\\css\\LogoCarRental.png"
+    },
+    {
       "Id": "C:\\Users\\danie\\source\\repos\\WebApplicationRentCarSolution\\WebApplicationRentCar\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

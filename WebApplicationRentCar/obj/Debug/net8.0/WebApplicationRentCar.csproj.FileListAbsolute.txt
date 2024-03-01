@@ -28,3 +28,5 @@ C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\
 C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\obj\Debug\net8.0\WebApplicationRentCar.pdb
 C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\obj\Debug\net8.0\WebApplicationRentCar.genruntimeconfig.cache
 C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\obj\Debug\net8.0\ref\WebApplicationRentCar.dll
+C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\obj\Debug\net8.0\WebApplicationRentCar.sourcelink.json
+C:\Users\danie\source\repos\WebApplicationRentCarSolution\WebApplicationRentCar\bin\Debug\net8.0\wwwroot\css\LogoCarRental.png
